@@ -1,0 +1,152 @@
+{
+  "toothbrush": {
+    "train_final_auroc": 0.938888888888889,
+    "eval_auroc": 0.938888888888889,
+    "paper_auroc": 0.919,
+    "difference_to_paper": 0.0199,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 14.1,
+    "date": "2026-11-17 13:44"
+  },
+  "bottle": {
+    "train_final_auroc": 0.9976190476190476,
+    "eval_auroc": 0.9976190476190476,
+    "paper_auroc": 0.998,
+    "difference_to_paper": -0.0004,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 49.2,
+    "date": "2026-11-17 14:42"
+  },
+  "leather": {
+    "train_final_auroc": 1.0,
+    "eval_auroc": 1.0,
+    "paper_auroc": 1.0,
+    "difference_to_paper": 0.0,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 57.4,
+    "date": "2026-11-17 16:46"
+  },
+  "tile": {
+    "train_final_auroc": 0.9985569985569986,
+    "eval_auroc": 0.9985569985569986,
+    "paper_auroc": 1.0,
+    "difference_to_paper": -0.0014,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 53.9,
+    "date": "2026-11-17 17:56"
+  },
+  "transistor": {
+    "train_final_auroc": 0.9945833333333334,
+    "eval_auroc": 0.9945833333333334,
+    "paper_auroc": 0.993,
+    "difference_to_paper": 0.0016,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 50.0,
+    "date": "2026-11-17 19:39"
+  },
+  "zipper": {
+    "train_final_auroc": 0.9971113445378151,
+    "eval_auroc": 0.9971113445378151,
+    "paper_auroc": 0.997,
+    "difference_to_paper": 0.0001,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 55.9,
+    "date": "2026-11-17 20:58"
+  },
+  "wood": {
+    "train_final_auroc": 0.9973684210526315,
+    "eval_auroc": 0.9973684210526315,
+    "paper_auroc": 1.0,
+    "difference_to_paper": -0.0026,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 57.6,
+    "date": "2026-11-17 23:12"
+  },
+  "capsule": {
+    "train_final_auroc": 0.9796569605105705,
+    "eval_auroc": 0.9796569605105705,
+    "paper_auroc": 0.971,
+    "difference_to_paper": 0.0087,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 51.0,
+    "date": "2026-11-18 00:09"
+  },
+  "hazelnut": {
+    "train_final_auroc": 0.9957142857142858,
+    "eval_auroc": 0.9957142857142858,
+    "paper_auroc": 0.996,
+    "difference_to_paper": -0.0003,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 91.1,
+    "date": "2026-11-18 11:19"
+  },
+  "cable": {
+    "train_final_auroc": 0.9921289355322338,
+    "eval_auroc": 0.9921289355322338,
+    "paper_auroc": 0.991,
+    "difference_to_paper": 0.0011,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 52.0,
+    "date": "2026-11-18 12:25"
+  },
+  "grid": {
+    "train_final_auroc": 0.9707602339181287,
+    "eval_auroc": 0.9707602339181287,
+    "paper_auroc": 0.99,
+    "difference_to_paper": -0.0192,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 61.5,
+    "date": "2026-11-18 13:43"
+  },
+  "metal_nut": {
+    "train_final_auroc": 0.9775171065493646,
+    "eval_auroc": 0.9775171065493646,
+    "paper_auroc": 0.991,
+    "difference_to_paper": -0.0135,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 51.3,
+    "date": "2026-11-18 15:52"
+  },
+  "screw": {
+    "train_final_auroc": 0.9680262348841976,
+    "eval_auroc": 0.9680262348841976,
+    "paper_auroc": 0.976,
+    "difference_to_paper": -0.008,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 74.5,
+    "date": "2026-11-18 18:11"
+  },
+  "carpet": {
+    "train_final_auroc": 1.0,
+    "eval_auroc": 1.0,
+    "paper_auroc": 1.0,
+    "difference_to_paper": 0.0,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 65.7,
+    "date": "2026-11-18 19:49"
+  },
+  "pill": {
+    "train_final_auroc": 0.9830878341516639,
+    "eval_auroc": 0.9830878341516639,
+    "paper_auroc": 0.986,
+    "difference_to_paper": -0.0029,
+    "epochs": 240,
+    "batch_size": 16,
+    "train_minutes": 62.2,
+    "date": "2026-11-18 21:38"
+  }
+}
