@@ -1,0 +1,9 @@
+{
+  "threshold": 0.8897135257720947,
+  "percentile": 99.0,
+  "n_images": 190,
+  "good_score_min": 0.4836840033531189,
+  "good_score_median": 0.6376713514328003,
+  "good_score_max": 0.9194657206535339,
+  "calibration_folder": "data/mtd_data/mtd/test/good"
+}
